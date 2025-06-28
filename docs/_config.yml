@@ -33,7 +33,7 @@ domain: autumnchan.github.io
 url: https://autumnchan.github.io
 
 # Build settings
-theme: minima
+remote_theme: moonwalk
 plugins:
   - jekyll-feed
 
